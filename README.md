@@ -1,0 +1,1 @@
+# farol-extension-framework
