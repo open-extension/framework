@@ -23,6 +23,9 @@
   "license": "ISC",
   "main": "dist/index.js",
   "name": "@open-extension/framework",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/open-extension/framework.git"
